@@ -119,4 +119,4 @@ This script was developed by Michael David Norris with contributions, suggestion
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details. (You can choose a different license if you prefer)
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
